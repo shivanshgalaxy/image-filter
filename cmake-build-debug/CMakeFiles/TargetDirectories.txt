@@ -1,0 +1,3 @@
+/home/sh/Projects/CLionProjects/CS50/filter2/cmake-build-debug/CMakeFiles/filter2.dir
+/home/sh/Projects/CLionProjects/CS50/filter2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sh/Projects/CLionProjects/CS50/filter2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
